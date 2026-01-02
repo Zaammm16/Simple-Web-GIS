@@ -18,7 +18,7 @@ Repositori ini terdiri dari file-file berikut:
 ## 🛠️ Teknologi yang Digunakan
 * **Bahasa:** Python, HTML/CSS/JS
 * **Data:** GeoJSON
-* **Library (Kemungkinan):** Flask (Python) atau Leaflet.js (JavaScript) untuk peta.
+* **Library:** Flask (Python) atau Leaflet.js (JavaScript) untuk peta.
 
 ## 🚀 Cara Menjalankan
 
