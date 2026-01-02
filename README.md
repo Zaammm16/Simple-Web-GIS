@@ -28,11 +28,11 @@ Pastikan Python telah terinstal di komputer Anda.
 ### Langkah-langkah
 1.  **Clone repositori ini:**
     ```bash
-    git clone [https://github.com/Zaammm16/AbdullahAzzam16.git](https://github.com/Zaammm16/AbdullahAzzam16.git)
+    git clone [https://github.com/Zaammm16/Simple-Web-GIS.git](https://github.com/Zaammm16/Simple-Web-GIS)
     ```
 2.  **Masuk ke direktori:**
     ```bash
-    cd AbdullahAzzam16
+    cd Simple-Web-GIS
     ```
 3.  **Jalankan aplikasi:**
     Jika menggunakan Python biasa:
